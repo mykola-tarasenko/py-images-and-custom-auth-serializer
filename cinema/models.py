@@ -1,6 +1,5 @@
 import os
 import uuid
-from venv import create
 
 from django.conf import settings
 from django.core.exceptions import ValidationError
